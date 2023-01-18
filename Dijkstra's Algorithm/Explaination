@@ -3,4 +3,8 @@ For the given directed graph which contains negative weights, Dijsktra's algorit
 Conditions for optimal execution of Dijkstra's Algorithm:
 1)Can be directed
 2)Weights have to be non-negative(zero or positive).
+
+Failed in every instance where a negative number was used.
+
+
 Hence, it is not recommended to use this algorithm for negatively weighted graphs.
