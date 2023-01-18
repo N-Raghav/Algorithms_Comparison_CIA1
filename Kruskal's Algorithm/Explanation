@@ -1,0 +1,5 @@
+This folder contains code for Kruskal's algorithm.(General code as it shouldn't be used in this case)
+
+In the case of the above graph, Kruskal's shouldn't be utilised as:
+1)Graph is directed. While creating an adjacency matrix, we do not take into consideration the direction of the edge. 
+2)Fails to detect loops in the above graph.
