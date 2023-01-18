@@ -1,0 +1,6 @@
+Altough the 3 algorithms seemed to give the desired result in this case, but it is clearly not advised to use the above 3 algorithms in case of negatively
+weighted, directed graphs.
+The optimal solution in this case would be is to use an algorithm named, "Bellman Ford Algorithm".
+
+Links referred for Bellman Ford:
+https://www.cs.cmu.edu/afs/cs/academic/class/15210-f11/www/lectures/10/lecture10.pdf
