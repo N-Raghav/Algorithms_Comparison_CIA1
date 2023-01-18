@@ -1,0 +1,6 @@
+This folder contains code for Dijkstra's algorithm.(general code as this can't be used in this case)
+For the given directed graph which contains negative weights, Dijsktra's algorithm will not produce the accurate results.
+Conditions for optimal execution of Dijkstra's Algorithm:
+1)Can be directed
+2)Weights have to be non-negative(zero or positive).
+Hence, it is not recommended to use this algorithm for negatively weighted graphs.
