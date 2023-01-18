@@ -2,3 +2,4 @@ This folder contains code for Prim's algorithm.(General code as it can't be used
 Prim’s algorithm always starts with a single node and it moves through several adjacent nodes, in order to explore all of the connected edges along the way.
 In the case of the above graph, Prim's can't be utilised as:
 1)Graph is directed. While creating an adjacency matrix, we do not take into consideration the direction of the edge. 
+2)Every node is not reachable from every other node in a directed graph.
